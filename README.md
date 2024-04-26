@@ -10,7 +10,7 @@ THis is a work in progress and is subject to change.
 
 1. `git clone https://www.github.com/elainajones/discord-cli.git`
 2. `cd discord-cli`
-3. `make install`
+3. `make install` (a slight misnomer since this only installs Python packages)
 4. `. .venv/bin/activate`
 5. Add the following to `.env` (**note:** this is NOT tracked by git or shared)
     - `LOGIN='<YOUR DISCORD EMAIL HERE>'`
